@@ -28,6 +28,7 @@ header .navbar {
 
 #blu-fish {
     background-image: url(https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg);
+    background-size: cover;
 }
 
 .testo {
@@ -46,8 +47,14 @@ header .navbar {
 }
 
 .jumbotron {
-    margin-top: 200px;
+    margin-top: 220px;
+    margin-bottom: 70px;
     width: 470px;
+}
+
+.container .jumbotron h2 {
+    color: #031b4e;
+    font-size: 30px;
 }
 
 .before-after::before,
@@ -106,7 +113,17 @@ header .navbar {
 .fa-github-square {
     padding: 5px;
 }
+
+#gray {
+    background-color: #f3f5f9;
+}
+
 .container h2 {
     color: #939eb4;
     font-size: 15px;
+    padding: 30px 30px;
+}
+
+.img-responsive {
+    height: 60px;
 }
