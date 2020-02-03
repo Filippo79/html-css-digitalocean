@@ -33,7 +33,6 @@ header .navbar {
 .testo {
     margin-top: 300px;
     width: 450px;
-
     color: white;
 }
 
@@ -43,10 +42,67 @@ header .navbar {
 
 .testo p {
     font-size: 20px;
-
+    margin-top: 30px;
 }
 
 .jumbotron {
     margin-top: 200px;
     width: 470px;
+}
+
+.before-after::before,
+.before-after::after {
+    content: "";
+    display: inline-block;
+    width: 125px;
+    height: 2px;
+    background-color: lightgrey;
+    position: relative;
+    bottom: 3px;
+}
+
+.before-after i {
+    color: white;
+    font-size: 15px;
+    background-color: #0069ff;
+}
+
+.btn-primary {
+    background-color: #0069ff;
+    margin-bottom: 20px;
+}
+
+.btn-primary:hover {
+    background-color: blue;
+}
+
+.btn-go-gt {
+    margin-top: 20px;
+}
+
+.btn-go-gt button {
+    color: black;
+    background-color: #f2f8ff;
+    border-color: lightgrey;
+    width: 170px;
+    padding: 10px;
+}
+
+.btn-go-gt > p {
+    font-size: 13px;
+
+}
+
+.btn-go-gt button:hover {
+    color: black;
+    background-color: lightgrey;
+}
+
+.fa-google {
+    padding: 5px;
+    color: darkorange;
+}
+
+.fa-github-square {
+    padding: 5px;
 }
