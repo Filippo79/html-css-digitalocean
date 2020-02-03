@@ -127,3 +127,8 @@ header .navbar {
 .img-responsive {
     height: 60px;
 }
+
+.solution h4 {
+    color: #036aff;
+    margin-top: 90px;
+}
