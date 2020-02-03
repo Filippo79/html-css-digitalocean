@@ -106,3 +106,7 @@ header .navbar {
 .fa-github-square {
     padding: 5px;
 }
+.container h2 {
+    color: #939eb4;
+    font-size: 15px;
+}
