@@ -2,6 +2,51 @@ header .navbar {
     background-color: white;
 }
 
-.navbar img {
+.navbar-header img {
     height: 60px;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+    color: #0069ff;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.btn-default {
+    color: #247eff;
+    border-color: #0069ff
+}
+
+.btn-default:hover {
+    color: white;
+    background-color: #0069ff;
+}
+
+#blu-fish {
+    background-image: url(https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg);
+}
+
+.testo {
+    margin-top: 300px;
+    width: 450px;
+
+    color: white;
+}
+
+.testo h1 {
+    font-size: 60px;
+}
+
+.testo p {
+    font-size: 20px;
+
+}
+
+.jumbotron {
+    margin-top: 200px;
+    width: 470px;
 }
