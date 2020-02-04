@@ -164,7 +164,6 @@ header .navbar {
 .deploy-and-scale p {
     color: #4e5f83;
     margin-bottom: 50px;
-
 }
 
 .row p {
@@ -188,4 +187,23 @@ header .navbar {
     padding: 0;
     margin-top: 10px;
     font-size: 15px;
+}
+
+.designed h2 {
+    color: #031b4e;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.designed p {
+    color: #4e5f83;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.screenshot img {
+    width: 700px;
+    height: 450px;
+    margin-bottom: 50px;
 }
