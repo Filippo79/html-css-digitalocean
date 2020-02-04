@@ -47,18 +47,20 @@ header .navbar {
     font-size: 64px;
 }
 
-.testo p {
+.row .testo p {
     font-size: 24px;
     margin-top: 30px;
+    color: #ccdaff;
 }
 
 .jumbotron {
     margin-top: 220px;
     margin-bottom: 70px;
+    /* larghezza per responsive */
     width: 470px;
 }
 
-.jumbotron .deploy {
+.jumbotron .deploy-seconds {
     color: #031b4e;
     font-size: 30px;
 }
@@ -128,7 +130,7 @@ header .navbar {
     background-color: #f3f5f9;
 }
 
-.container h2 {
+.innovative  h2 {
     color: #939eb4;
     font-size: 15px;
     padding: 30px 30px;
@@ -147,23 +149,43 @@ header .navbar {
 }
 
 .container-small {
+    /* larghezza per responsive */
     width: 800px;
     margin: 0 auto;
 }
 
-.row h2 {
+.deploy-and-scale h2 {
     color: #031b4e;
-    font-size: 20px;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.deploy-and-scale p {
+    color: #4e5f83;
+    margin-bottom: 50px;
+
 }
 
 .row p {
     color: #5f6f8f;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .row ul li {
     color: #5f6f8f;
     padding: 15px 15px 15px 15px;
     border-left: 1px solid lightgrey;
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.row ul li:hover {
+    color: #031b4e;
+}
+
+.container .deploy-title {
+    color: #031b4e;
+    padding: 0;
+    margin-top: 10px;
+    font-size: 15px;
 }
