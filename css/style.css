@@ -192,18 +192,18 @@ header .navbar {
 .designed h2 {
     color: #031b4e;
     font-size: 30px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 80px;
+    margin-bottom: 50px;
 }
 
 .designed p {
     color: #4e5f83;
     font-size: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .screenshot img {
     width: 700px;
     height: 450px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
