@@ -145,3 +145,25 @@ header .navbar {
 .solution h4 {
     color: #036aff;
 }
+
+.container-small {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.row h2 {
+    color: #031b4e;
+    font-size: 20px;
+}
+
+.row p {
+    color: #5f6f8f;
+    font-size: 15px;
+}
+
+.row ul li {
+    color: #5f6f8f;
+    padding: 15px 15px 15px 15px;
+    border-left: 1px solid lightgrey;
+    font-size: 20px;
+}
