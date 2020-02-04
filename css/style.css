@@ -166,19 +166,19 @@ header .navbar {
     margin-bottom: 50px;
 }
 
-.row p {
+.text-paragrafo {
     color: #5f6f8f;
-    font-size: 16px;
+    font-size: 18px;
 }
 
-.row ul li {
+.list li {
     color: #5f6f8f;
     padding: 15px 15px 15px 15px;
     border-left: 1px solid lightgrey;
     font-size: 18px;
 }
 
-.row ul li:hover {
+.list li:hover {
     color: #031b4e;
 }
 
@@ -206,4 +206,15 @@ header .navbar {
     width: 700px;
     height: 450px;
     margin-bottom: 60px;
+}
+
+.text-blue {
+    color: #0169ff;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+
+#blu-world {
+    background-color: #031b4e;
+
 }
