@@ -216,5 +216,12 @@ header .navbar {
 
 #blu-world {
     background-color: #031b4e;
+}
+
+.service h2 {
+    color: white;
+    font-size: 35px;
+    margin-top: 100px;
+    margin-bottom: 80px;
 
 }
