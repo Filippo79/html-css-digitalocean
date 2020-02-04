@@ -1,9 +1,15 @@
+body {
+    font-family: 'Bangers', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
 header .navbar {
     background-color: white;
 }
 
 .navbar-header img {
-    height: 60px;
+    height: 30px;
+    margin-top: 5px;
 }
 
 .navbar-default .navbar-nav > li > a:focus,
@@ -26,7 +32,7 @@ header .navbar {
     background-color: #0069ff;
 }
 
-#blu-fish {
+#banner-blu {
     background-image: url(https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg);
     background-size: cover;
 }
@@ -38,11 +44,11 @@ header .navbar {
 }
 
 .testo h1 {
-    font-size: 60px;
+    font-size: 64px;
 }
 
 .testo p {
-    font-size: 20px;
+    font-size: 24px;
     margin-top: 30px;
 }
 
@@ -52,7 +58,7 @@ header .navbar {
     width: 470px;
 }
 
-.container .jumbotron h2 {
+.jumbotron .deploy {
     color: #031b4e;
     font-size: 30px;
 }
@@ -114,6 +120,10 @@ header .navbar {
     padding: 5px;
 }
 
+.ms--bg-bianco {
+    background-color: white;
+}
+
 #gray {
     background-color: #f3f5f9;
 }
@@ -125,10 +135,13 @@ header .navbar {
 }
 
 .img-responsive {
-    height: 60px;
+    height: 70px;
+}
+
+.solution {
+    margin-top: 120px;
 }
 
 .solution h4 {
     color: #036aff;
-    margin-top: 90px;
 }
