@@ -225,7 +225,15 @@ header .navbar {
     margin-bottom: 80px;
 }
 
-.service-city {
+.service-city-1 {
+    margin-bottom: 100px;
+}
+
+.border {
+    border-bottom: 1px solid #354971;
+}
+
+.service-city h4 {
     color: white;
 }
 
