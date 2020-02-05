@@ -57,7 +57,7 @@ header .navbar {
     margin-top: 220px;
     margin-bottom: 70px;
     /* larghezza per responsive */
-    width: 470px;
+    /* width: 470px; */
 }
 
 .jumbotron .deploy-seconds {
@@ -150,7 +150,7 @@ header .navbar {
 
 .container-small {
     /* larghezza per responsive */
-    width: 800px;
+    /* width: 800px; */
     margin: 0 auto;
 }
 
@@ -247,4 +247,8 @@ header .navbar {
 
 .service-city h6:hover {
     color: blue;
+}
+
+.designed u {
+    color: #046bff;
 }
