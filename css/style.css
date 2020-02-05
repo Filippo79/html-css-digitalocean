@@ -279,6 +279,10 @@ header .navbar {
     padding-top: 15px;
 }
 
+#light-blue {
+    background-color: #0049ff;
+}
+
 .get-started h2 {
     color: white;
     font-size: 35px;
@@ -291,4 +295,20 @@ header .navbar {
     font-size: 20px;
     margin-top: 30px;
     margin-bottom: 70px;
+}
+
+#dark-blue {
+    background-color: #010e28;
+}
+
+.finish {
+    margin-top: 100px;
+}
+
+.finish h6 {
+    color: white;
+}
+
+.finish li {
+    color: #6d7583;
 }
