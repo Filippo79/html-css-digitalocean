@@ -312,3 +312,9 @@ header .navbar {
 .finish li {
     color: #6d7583;
 }
+
+.finish li:hover {
+    color: white;
+
+
+}
