@@ -252,3 +252,43 @@ header .navbar {
 .designed u {
     color: #046bff;
 }
+
+.contentignite {
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.contentignite img {
+    height: 25px;
+    margin-top: 40px;
+}
+
+.contentignite h2 {
+    font-size: 30px;
+    color: #73809d;
+    padding: 30px 20px;
+}
+
+.contentignite h4,h6 {
+    color: #73809d;
+}
+
+.contentignite p {
+    color: #046bff;
+    padding-top: 15px;
+}
+
+.get-started h2 {
+    color: white;
+    font-size: 35px;
+    margin-top: 100px;
+}
+
+.get-started .create-you-account {
+    color: #247eff;
+    background-color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
