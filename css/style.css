@@ -223,5 +223,20 @@ header .navbar {
     font-size: 35px;
     margin-top: 100px;
     margin-bottom: 80px;
+}
 
+.service-city {
+    color: white;
+}
+
+.service-city h5 {
+    color: #909ab1;
+}
+
+.service-city h6 {
+    color: #00d7d2;
+}
+
+.service-city h6:hover {
+    color: blue;
 }
